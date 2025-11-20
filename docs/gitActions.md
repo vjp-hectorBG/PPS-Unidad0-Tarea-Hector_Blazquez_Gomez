@@ -10,7 +10,7 @@ Para realizar esta tarea hay que utilizar dos ficheros principales **mkdocks.yml
 ## CreacionDocumentacion.yml
 Este archivo tiene como tarea automatizar Github Actions y mediante su sintaxis podemos ver de forma clara cuales son sus directivas.
 
-![creacionDocumentacion]()
+![creacionDocumentacion](https://github.com/vjp-hectorBG/PPS-Unidad0-Tarea-Hector_Blazquez_Gomez/blob/main/imgs/creacionDocumentacion.png?raw=true)
 `yml` :  
 ```
 name: Deploy MkDocs
@@ -62,7 +62,7 @@ Este es un archivo bastante largo así que iré explicandolo poco a poco.
 
 Proseguimos con mkdocks.yml , este es el que controla la página web y los archivos markdown.
 
-![mkdocks]()
+![mkdocks](https://github.com/vjp-hectorBG/PPS-Unidad0-Tarea-Hector_Blazquez_Gomez/blob/main/imgs/mkdocs.png?raw=true)
 
 `yml` :  
 ```
@@ -78,6 +78,7 @@ docs_dir: docs
 Este archivo es bastante más sencillo e intuitivo para cualquier ojo comparado al anterior.
 
 - site_name
+
     +Es el nombre que aparecerá arriba del todo, en mi caso será ***Práctica Unidad 0 PPS - HectorBG*** 
 - nav
     + Este apartado especifica lo que va a salir en la barra de navegación de arriba y a que documentos están enlazados.
