@@ -3,6 +3,7 @@ nav:
   - Indice: index.md
   - Git: git.md
   - GitActions: gitActions.md
+  - GitPages: gitPages.md
   - Docker: docker.md
   - Conclusiones personales: conclusiones.md
 docs_dir: docs

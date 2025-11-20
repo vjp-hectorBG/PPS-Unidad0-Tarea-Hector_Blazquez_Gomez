@@ -13,5 +13,6 @@ El proyecto que tenemos entre manos trata sobre la creación de un repositorio d
 ## Enlaces 
  - [Git](git.md)
  - [GitActions](gitActions.md)
+ - [GitPages](gitPages.md)
  - [Docker](docker.md)
  - [Conclusiones](conclusiones.md)
