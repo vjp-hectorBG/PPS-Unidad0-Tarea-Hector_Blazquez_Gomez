@@ -1,8 +1,8 @@
 site_name: Práctica Unidad 0 PPS - HectorBG
 nav:
-  - Home: index.md
-  - git: git.md
-  - gitActions: gitActions.md
-  - docker: docker.md
-  - conclusiones personales: conclusiones.md
+  - Indice: index.md
+  - Git: git.md
+  - GitActions: gitActions.md
+  - Docker: docker.md
+  - Conclusiones personales: conclusiones.md
 docs_dir: docs

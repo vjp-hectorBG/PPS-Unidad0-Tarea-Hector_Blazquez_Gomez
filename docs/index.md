@@ -1,7 +1,7 @@
 
 # Proyecto PPS HectorBG
 
-Esta es la documentación de mi proyecto sobre la ***unidad 0**.
+Esta es la documentación de mi proyecto sobre la ***unidad 0***.
 Aquí demuestro mis conocimientos sobre *markdown, git y docker* en sus respectivos documentos MD que estarán ligados más abajo.
 
 
@@ -11,7 +11,7 @@ El proyecto que tenemos entre manos trata sobre la creación de un repositorio d
 
 ---
 ## Enlaces 
- - [git](git.md)
- - [gitActions](gitActions.md)
- - [docker](docker.md)
- - [conclusiones](conclusiones.md)
+ - [Git](git.md)
+ - [GitActions](gitActions.md)
+ - [Docker](docker.md)
+ - [Conclusiones](conclusiones.md)
