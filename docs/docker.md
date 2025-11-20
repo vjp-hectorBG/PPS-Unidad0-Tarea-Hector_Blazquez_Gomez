@@ -22,4 +22,4 @@ Como se puede observar en el comando he utilizado `pwd` para que pille la ruta a
 
 Una vez acceda desde el puerto 8085 podremos ver la página web de mi proyecto , o en el estado en el que estaba cuando la cloné del repositorio (`http://localhost:8085/`).
 
-![working](https://github.com/vjp-hectorBG/PPS-Unidad0-Tarea-Hector_Blazquez_Gomez/blob/main/imgs/working.png)
+![working](https://raw.githubusercontent.com/vjp-hectorBG/PPS-Unidad0-Tarea-Hector_Blazquez_Gomez/refs/heads/main/imgs/working.png)
