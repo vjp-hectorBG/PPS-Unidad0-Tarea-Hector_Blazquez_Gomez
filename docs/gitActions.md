@@ -77,9 +77,8 @@ docs_dir: docs
 ```
 Este archivo es bastante más sencillo e intuitivo para cualquier ojo comparado al anterior.
 
-- site_name
-
-    +Es el nombre que aparecerá arriba del todo, en mi caso será ***Práctica Unidad 0 PPS - HectorBG*** 
+- site_name 
+    + Es el nombre que aparecerá arriba del todo, en mi caso será ***Práctica Unidad 0 PPS - HectorBG*** 
 - nav
     + Este apartado especifica lo que va a salir en la barra de navegación de arriba y a que documentos están enlazados.
 - docs_dir
